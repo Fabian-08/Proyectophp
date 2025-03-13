@@ -1,0 +1,54 @@
+/* Header styles */
+header {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Main container styles */
+main {
+  padding: 20px;
+}
+
+/* Form styles */
+form div {
+  margin-bottom: 10px;
+}
+form label {
+  margin-right: 30px;
+}
+.entries {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Button styles */
+button {
+  background-color: #358994;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #45a049;
+}
+
+/* Footer styles */
+footer {
+  background-color: #1bacd8;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+/* Background color for the entire page */
+body {
+  background-color: rgb(222, 231, 231);
+}
